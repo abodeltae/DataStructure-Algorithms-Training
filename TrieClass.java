@@ -12,7 +12,7 @@ import java.util.HashMap;
  *
  * @author nazeer
  */
-public class TrieTest {
+public class TrieClass {
     public static void main(String[] args) {
         Trie trie=new Trie();
         trie.addWord("abood");

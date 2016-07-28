@@ -8,7 +8,7 @@ package javaapplication1;
  *
  * @author nazeer
  */
-public class Merge {
+public class MergeSort {
 
     
    static  int nums []={10,9,8,7,6,1,2,3,4,5,7,23,68,9,23,0};
